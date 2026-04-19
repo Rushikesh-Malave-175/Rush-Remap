@@ -1,5 +1,7 @@
 # ⚡ RushRemap V1.0
 
+**Check it out>** https://rentry.co/vscremap/
+
 Gamer-style keyboard navigation for coding.
 
 This project remaps **"I J K L"** (like WASD) into arrow key movement using `Alt`, giving you faster cursor control without leaving the home row.

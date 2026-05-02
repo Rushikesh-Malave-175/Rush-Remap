@@ -1,4 +1,4 @@
-# ⚡ RushRemap V1.0
+# RushRemap V1.0
 
 **Check it out>** https://rentry.co/vscremap/
 
@@ -84,21 +84,9 @@ Now the controls work everywhere (browser, file explorer, etc.)
 
 ---
 
-## Future Ideas
-
-- Vim-style mode toggle  
-- Custom macros (copy line, delete line, etc.)
-
----
-
 ## License
 
 Free to use, modify, and improve.
 
 ---
 
-## Author
-
-**RushRemap by Rushikesh**
-
-If you like this, feel free to fork or expand it.
